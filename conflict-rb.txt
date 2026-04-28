@@ -1,4 +1,4 @@
 ligne1
 ligne2
-je modifie la ligne3
+ligne3 qui apporte la resolution
 
